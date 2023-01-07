@@ -1,0 +1,177 @@
+body {
+    font-family: 'M PLUS 1', sans-serif;
+    margin: 0;
+    padding: 0;
+   
+  
+}
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+   
+}
+.logo {
+    margin-top: 0;
+    margin-left: 50px;
+    cursor: pointer;
+    
+}
+nav ul {
+    flex: 1;
+    text-align: center;
+    margin-left: 80px;
+    
+}
+nav ul li{
+    font-size: 14px;
+    font-weight: 500;
+    display: inline-block;
+    margin-right: 30px;
+}
+nav ul li a {
+    color: black;
+    text-decoration: none;
+}
+nav .btn {
+    font-size: 14px;
+    font-weight: 500;
+    margin-right: 18px;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+section .content {
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+    padding-top: 15vh;
+    padding-bottom: 15vh;
+   
+   
+}
+.content h1 {
+    font-size: 45px;
+    font-weight: 550;
+    margin-bottom: 0px;
+
+}
+.content p {
+    margin-top: 0;
+}
+.bot {
+    text-align: center;
+   
+    
+}
+.cust {
+    padding: 4px 24px 4px 24px;
+}
+.bg {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+
+}
+.bg-3 {
+    height: 110vh;
+    background-size: cover;
+    background-position: center;
+}
+.bg-s {
+    height: 110vh;
+    background-size: cover;
+    background-position: center;
+}
+.bg-x {
+    height: 110vh;
+    background-size: cover;
+    background-position: center;
+}
+.bg-solar {
+    height: 110vh;
+    background-size: cover;
+    background-position: center;
+}
+.bg-roof {
+    height: 110vh;
+    background-size: cover;
+    background-position: center;
+}
+.bg-acc {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.buttons {
+    width: 100%;
+    
+    margin-top: 25%;
+}
+  
+.first {
+    color: white;
+    background-color: #171a20cc;
+    padding: 8px 64px;
+    margin-right: 20px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.second {
+    background-color: #f4f4f480;
+    color: #393c41;
+    padding: 8px 64px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.first-1 {
+    margin-left: 40px;
+   
+    color: white;
+    background-color: #171a20;
+    padding: 8px 100px;
+    margin-right: 20px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.footer {
+    font-size: 12px;
+    color: #5c5e62;
+    font-weight: 550;
+    margin-top: 20%;
+    
+   
+}
+.footer img {
+    width: 12px;
+    height: 12px;
+    color: #5c5e62;
+}
+.tes {
+    margin-right: 12px;
+}
+.pri {
+    margin-right: 12px;
+}
+.veh {
+    margin-right: 12px;
+}
+.con {
+    margin-right: 12px;
+}
+.car {
+    margin-right: 12px;
+}
+.new {
+    margin-right: 12px;
+}
+.eng {
+    margin-right: 12px;
+}
+.loc {
+    margin-right: 12px;
+}
